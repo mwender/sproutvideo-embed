@@ -34,7 +34,7 @@ function embed_sprout_video( $atts = [] ){
       switch ( $key ) {
         case 'vemail':
           if( ! is_email( $value ) )
-            continue;
+            continue 2;
           break;
 
         default:
