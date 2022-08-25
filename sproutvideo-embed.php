@@ -7,7 +7,7 @@
  * Author URI:      https://mwender.com
  * Text Domain:     sproutvideo-embed
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         1.0.1
  *
  * @package         Sproutvideo_Embed
  */
