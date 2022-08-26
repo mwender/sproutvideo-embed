@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     SproutVideo Embed
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      https://github.com/mwender/sproutvideo-embed
  * Description:     Provides a shortcode for embedding videos hosted on SproutVideo.
  * Author:          TheWebist
  * Author URI:      https://mwender.com
